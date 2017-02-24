@@ -7,7 +7,7 @@
 
     console.log(newArray.every(function(value){
         return typeof value !== 'string';
-    }));// if the values of array type all are string the it will return Ture other wise will return false.
+    }));// if the values of array type all are string then it will return Ture other wise will return false.
     
     
     var mixArray = [1, 'two', 3, 'four', 5, 'six'];
